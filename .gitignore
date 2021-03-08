@@ -1,0 +1,10 @@
+# dotnet core
+bin/
+obj/
+
+# IDE
+.idea/
+.vs/
+
+# Packages
+packages/
